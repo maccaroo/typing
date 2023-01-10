@@ -1,0 +1,10 @@
+.correctText {
+    color: green;
+}
+.errorText {
+    color: red;
+    font-weight: bold;
+}
+.pending {
+    color: black;
+}
